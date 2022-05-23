@@ -6,7 +6,7 @@ let price=Number (prompt("enter price:"));
 let qty=Number(prompt("enter quantity:"));
 
 //calculate 
-let anualSalary=100
+
 let tax=.1
 
 //display on html
